@@ -36,3 +36,6 @@ Troubleshoot errors in my code by explaining error messages and providing correc
 
 Gain insights into best practices for efficient and readable code structure. For example, when I encountered issues displaying temperature values correctly on the LCD, I sought help from ChatGPT, which provided clear explanations of common formatting mistakes and suggested improvements. Additionally, ChatGPT offered customized code snippets tailored to my specific circuit configuration, saving me time and effort. Its ability to generate explanations, code comments, and debugging strategies made it a highly versatile tool throughout my project.
 
+# OUTPUT 
+
+![task1](https://github.com/user-attachments/assets/ac67cdb2-c85e-4051-9cc9-fa369c13a455)
