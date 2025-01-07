@@ -39,3 +39,5 @@ Gain insights into best practices for efficient and readable code structure. For
 # OUTPUT 
 
 ![task1](https://github.com/user-attachments/assets/ac67cdb2-c85e-4051-9cc9-fa369c13a455)
+
+video: https://github.com/user-attachments/assets/eaaab3cb-708b-4a92-a05a-ba2c677778f0
